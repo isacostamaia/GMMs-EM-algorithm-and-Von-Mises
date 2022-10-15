@@ -1,2 +1,2 @@
 # GMMs-EM-algorithm-and-Von-Mises
-## Read LabSession_1_MM.pdf for more information about repository.
+#### Read LabSession_1_MM.pdf for more information about the repository.
